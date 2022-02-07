@@ -21,7 +21,6 @@
 #include <unistd.h>
 #include <semaphore.h>
 #include <signal.h>
-#include <windows.h>
 
 #include "log/log.h"
 #include "jfst/node.h"
